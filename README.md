@@ -20,6 +20,6 @@ This project is a quiz application built using Python. It fetches quiz questions
 
 ## Screenshots 
 
-![Screenshot 2024-06-26 232935](https://github.com/Harsha0130/Quiz_App/assets/127675058/a018bccf-2f3b-4a01-8e91-80a849fcb977)
+![Screenshot 2024-06-26 232935](https://github.com/Harsha0130/Quiz_App/assets/127675058/a018bccf-2f3b-4a01-8e91-80a849fcb977)   ![Screenshot 2024-06-26 232952](https://github.com/Harsha0130/Quiz_App/assets/127675058/cb80cae8-9b70-431a-b81c-3201c9f336e7)
 
-![Screenshot 2024-06-26 232952](https://github.com/Harsha0130/Quiz_App/assets/127675058/cb80cae8-9b70-431a-b81c-3201c9f336e7)
+
